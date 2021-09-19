@@ -3,7 +3,7 @@
 - 🔭 I’m currently working in [Tesco Technology](https://www.tesco-careers.com/technology/uk/en)
 - 👯 I’m looking to collaborate on stratup\freelance projects
 - 💬 Ask me about Java/Spring, Nest.js, Fullstack development
-- 📫 How to reach me: [telegram](https://t.me/alexstrug), [email](alexeistrug@gmail.com)
+- 📫 How to reach me: [telegram](https://t.me/alexstrug)
 
 <h3 align="left">Connect with me:</h3>
  <a href="https://linkedin.com/in/https://www.linkedin.com/in/alexei-strug/" target="blank">
