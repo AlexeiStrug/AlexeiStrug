@@ -1,7 +1,7 @@
 ### Hi, I'm Alexei Strug, Fullstack Developer 👋
 
 - 🔭 I’m currently working in [Tesco Technology](https://www.tesco-careers.com/technology/uk/en)
-- 👯 I’m looking to collaborate on stratup\freelance projects
+- 👯 I’m looking to collaborate on startup\freelance projects
 - 💬 Ask me about Java/Spring, Nest.js, Fullstack development
 
 <h3 align="left">📫 How to reach me 📫</h3>
