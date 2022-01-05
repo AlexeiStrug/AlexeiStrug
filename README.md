@@ -20,10 +20,6 @@
 ## ⚙️ GitHub Stats ⚙️
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexeiStrug&show_icons=true&count_private=true&theme=tokyonight" alt="AlexeiStrug's GitHub Stats" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="center" text-align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeiStrug&layout=compact&theme=tokyonight" />
 </a>
 
