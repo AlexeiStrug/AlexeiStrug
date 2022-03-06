@@ -1,21 +1,19 @@
-### Hi, I'm Alexei Strug, Fullstack Developer 👋
+### Hi, I'm Alexei Strug, Full-Stack, Software/Application Developer, Software/Application Engineer 👋
 
 - 🔭 I’m currently working in [Tesco Technology](https://www.tesco-careers.com/technology/uk/en)
 - 👯 I’m looking to collaborate on startup\freelance projects
 - 💬 Ask me about Java/Spring, Nest.js, Fullstack development
 
-<h3 align="left">📫 How to reach me 📫</h3>
-
-<a href="https://www.linkedin.com/in/alexei-strug/" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexei-strug/" height="30" width="40" />
-  </a>
-  <a href="mailto:alexeistrug@gmail.com" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg" height="30" width="40" />
-  </a>
-    <a href="https://t.me/alexstrug" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/messenger.svg" height="30" width="40" />
-  </a>
-</p>
+## 📫 How to reach me 📫
+ <a href="https://www.linkedin.com/in/alexei-strug/">
+     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+ <a href="https://t.me/alexstrug">
+     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+ </a>
+ <a href="mailto:alexeistrug@gmail.com" target="blank">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ </a>
 
 ## ⚙️ GitHub Stats ⚙️
 
