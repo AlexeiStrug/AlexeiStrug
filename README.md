@@ -1,6 +1,6 @@
-### Hi, I'm Alexei Strug, Full-Stack, Software/Application Developer, Software/Application Engineer 👋
+### Hi, I'm Alexei Strug, Senior Software Engineer 👋
 
-- 🔭 I’m currently working in [Tesco Technology](https://www.tesco-careers.com/technology/uk/en)
+- 🔭 I’m currently working as Self-employed
 - 👯 I’m looking to collaborate on startup\freelance projects
 - 💬 Ask me about Java/Spring, Nest.js, Fullstack development
 
