@@ -1,18 +1,12 @@
-### Hi, I'm Alexei Strug, Senior Software Engineer 👋
+### Hi, I'm Alexei Strug, Senior Software Engineer / Cloud Architect 👋
 
 - 🔭 I’m currently working as Self-employed
 - 👯 I’m looking to collaborate on startup\freelance projects
 - 💬 Ask me about Java/Spring, Nest.js, Fullstack development
 
 ## 📫 How to reach me 📫
- <a href="https://www.linkedin.com/in/alexei-strug/">
+ <a href="https://www.linkedin.com/in/aliakseistruh/">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
- </a>
- <a href="https://t.me/alexstrug">
-     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
- </a>
- <a href="mailto:alexeistrug@gmail.com" target="blank">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
  </a>
 
 ## ⚙️ GitHub Stats ⚙️
